@@ -38,7 +38,7 @@ For these functions:
 3. Make getSyrup() return the current syrup.
 4. Make setSize(String size) set the instance variable size to function variable size (this will not return anything)
 5. Make setType(int type) set the instance variable type using the function variable type via following the same rules as the constructor (this will not return anything)
-6. setSyrup(String syrup) set the instance variable syrup to the function variable syrup (this will not return anything)
+6. Make setSyrup(String syrup) set the instance variable syrup to the function variable syrup (this will not return anything)
 ```
 
   Ex: 
