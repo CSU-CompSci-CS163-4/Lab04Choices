@@ -73,7 +73,7 @@ Things like size, type of drink, and syrups can have an effect on the total pric
 
 
 # Step 4: Turn It In!
-  Turn it in to submit mode on Zybooks
+  Turn it in Canvas and wait for feedback from RamDesk
 
 #Reminder: Switch Cases
 There are some times when the only thing your if statement is checking is the value of a single variable. In these cases, it is easier to use a *switch statement*. All cases in a switch statement should be terminated by a break, or they will walk through into the next case without checking for correctness until they reach a break statement.
