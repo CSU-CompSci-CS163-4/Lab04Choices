@@ -28,7 +28,7 @@ Syrup will be directly assigned and no switch statements are needed for this sec
    Coffee myOrder = new Coffee('s', 1, syrup);
    System.out.println("TESTING CONSTRUCTOR SIZE: " + myOrder.size); // should return "small" 
 ```
-# Step 2: Getters and Setters -- getSize(), getType(), getSyrups(), setSize(String siz), setType(String typ), setSyrups(String\[] syrup)
+# Step 2: Getters and Setters -- getSize(), getType(), getSyrups(), setSize(String siz), setType(String typ), setSyrup(String syrup)
 Another basic part of most Java classes are getters and setters. getters get the values of variables and setters set the values of variables. In Coffee, we have three class variables: size, type, syrups. Keep in mind that private variables can ONLY be accessed outside of the class by getters and setters. 
 
 For these functions:
