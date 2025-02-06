@@ -67,7 +67,7 @@ Things like size, type of drink, and syrups can have an effect on the total pric
   Coffee order1 = new Coffee('s', 1, syrup1);
   Coffee order2 = new Coffee('m', 2, syrup2);
   System.out.println("TESTING PRICE: " + order1.calculatePrice()); // This should return 3.25
-  System.out.println("TESTING PRICE: " + order2.calculatePrice()); // This should return 4.5
+  System.out.println("TESTING PRICE: " + order2.calculatePrice()); // This should return 5.0
 ```
 
 
